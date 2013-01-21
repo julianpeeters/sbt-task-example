@@ -2,3 +2,18 @@ hello
 q
 quit
 exit
+run
+hello
+tasks
+inspect hello
+tasks -V
+hello
+hi ther
+hello
+sbt
+run
+eixt
+exit
+hello
+run
+exit
